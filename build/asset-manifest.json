@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/News-Mania/static/css/main.dc4d6ff2.css",
+    "main.js": "/News-Mania/static/js/main.1f390fb4.js",
+    "static/js/453.b2157c12.chunk.js": "/News-Mania/static/js/453.b2157c12.chunk.js",
+    "index.html": "/News-Mania/index.html",
+    "main.dc4d6ff2.css.map": "/News-Mania/static/css/main.dc4d6ff2.css.map",
+    "main.1f390fb4.js.map": "/News-Mania/static/js/main.1f390fb4.js.map",
+    "453.b2157c12.chunk.js.map": "/News-Mania/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.1f390fb4.js"
+  ]
+}
